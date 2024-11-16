@@ -1,0 +1,763 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "minInRotetedSorted",
+            "request": "launch",
+            "mainClass": "minInRotetedSorted",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "revWords",
+            "request": "launch",
+            "mainClass": "revWords",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "maxProdSub",
+            "request": "launch",
+            "mainClass": "maxProdSub",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "KetPadComb",
+            "request": "launch",
+            "mainClass": "KetPadComb",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "getSubsequence",
+            "request": "launch",
+            "mainClass": "getSubsequence",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "threeSum",
+            "request": "launch",
+            "mainClass": "threeSum",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "fourSum",
+            "request": "launch",
+            "mainClass": "fourSum",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "firstIdx",
+            "request": "launch",
+            "mainClass": "firstIdx",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "leaderInArray",
+            "request": "launch",
+            "mainClass": "leaderInArray",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "pascals_triangle",
+            "request": "launch",
+            "mainClass": "pascals_triangle",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "LongetConsSeq",
+            "request": "launch",
+            "mainClass": "LongetConsSeq",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "setMatrixZero",
+            "request": "launch",
+            "mainClass": "setMatrixZero",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "NextPermutation",
+            "request": "launch",
+            "mainClass": "NextPermutation",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "rsa",
+            "request": "launch",
+            "mainClass": "BinarySearch.rsa",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "union",
+            "request": "launch",
+            "mainClass": "Arrayproblem.union",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "ArrayList.basic",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "Multiplication",
+            "request": "launch",
+            "mainClass": "TwoDArray.Multiplication",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "Cookies",
+            "request": "launch",
+            "mainClass": "Arrayproblem.Cookies",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "TwoDArray.Demo",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "Hashmap",
+            "request": "launch",
+            "mainClass": "Hashmap",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "KadanesAlogo",
+            "request": "launch",
+            "mainClass": "KadanesAlogo",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubArraySum",
+            "request": "launch",
+            "mainClass": "MaxSubArraySum",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "SubArray",
+            "request": "launch",
+            "mainClass": "SubArray",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "BT",
+            "request": "launch",
+            "mainClass": "BT",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "buildTreeStack",
+            "request": "launch",
+            "mainClass": "BinarTree.buildTreeStack",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "buildTreeStack",
+            "request": "launch",
+            "mainClass": "buildTreeStack",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "buildTree",
+            "request": "launch",
+            "mainClass": "buildTree",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "Queue.basic",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "num_pattern",
+            "request": "launch",
+            "mainClass": "Stack.num_pattern",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "constructor",
+            "request": "launch",
+            "mainClass": "constructor",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "obj",
+            "request": "launch",
+            "mainClass": "obj",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Search",
+            "request": "launch",
+            "mainClass": "BinarySearch.Binary_Search",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "BinraySearch",
+            "request": "launch",
+            "mainClass": "BinraySearch",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "SubsetArray",
+            "request": "launch",
+            "mainClass": "Arrayproblem.SubsetArray",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "infixConversion",
+            "request": "launch",
+            "mainClass": "Stack.infixConversion",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "infixEval",
+            "request": "launch",
+            "mainClass": "Stack.infixEval",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "slidingWindowMax",
+            "request": "launch",
+            "mainClass": "Stack.slidingWindowMax",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "stocKSpan",
+            "request": "launch",
+            "mainClass": "Stack.stocKSpan",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "NGEOL",
+            "request": "launch",
+            "mainClass": "Stack.NGEOL",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "NGEOR",
+            "request": "launch",
+            "mainClass": "Stack.NGEOR",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "balanceBrackets",
+            "request": "launch",
+            "mainClass": "Stack.balanceBrackets",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateBrackets",
+            "request": "launch",
+            "mainClass": "Stack.DuplicateBrackets",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "Stack.Basic",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "isSorted",
+            "request": "launch",
+            "mainClass": "Arrayproblem.isSorted",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "secLargest",
+            "request": "launch",
+            "mainClass": "Arrayproblem.secLargest",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "twodarray",
+            "request": "launch",
+            "mainClass": "twodarray",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "array1",
+            "request": "launch",
+            "mainClass": "array1",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "npr",
+            "request": "launch",
+            "mainClass": "npr",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "P07",
+            "request": "launch",
+            "mainClass": "P07",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "P06",
+            "request": "launch",
+            "mainClass": "P06",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "P05",
+            "request": "launch",
+            "mainClass": "P05",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "OneToN",
+            "request": "launch",
+            "mainClass": "OneToN",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "P1",
+            "request": "launch",
+            "mainClass": "Time_Space.P1",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "bubble",
+            "request": "launch",
+            "mainClass": "bubble",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "P1",
+            "request": "launch",
+            "mainClass": "P1",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "Search2D",
+            "request": "launch",
+            "mainClass": "Arrayproblem.Search2D",
+            "projectName": "DSA_7d3b2332"
+        },
+        {
+            "type": "java",
+            "name": "DeletionDLL",
+            "request": "launch",
+            "mainClass": "DeletionDLL",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "ReverseDLL",
+            "request": "launch",
+            "mainClass": "ReverseDLL",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "InsertionDLL",
+            "request": "launch",
+            "mainClass": "InsertionDLL",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "DLL",
+            "request": "launch",
+            "mainClass": "DLL",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "AddK",
+            "request": "launch",
+            "mainClass": "AddK",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "RemoveCycle",
+            "request": "launch",
+            "mainClass": "RemoveCycle",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "LoopLL",
+            "request": "launch",
+            "mainClass": "LoopLL",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "Arrayproblem.Array1",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "Interitance",
+            "request": "launch",
+            "mainClass": "Interitance",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLists",
+            "request": "launch",
+            "mainClass": "ArrayLists",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "ArrayMax",
+            "request": "launch",
+            "mainClass": "ArrayMax",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "ArrayManupulation",
+            "request": "launch",
+            "mainClass": "Arrayproblem.ArrayManupulation",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "Pascal",
+            "request": "launch",
+            "mainClass": "Arrayproblem.Pascal",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "Repeat",
+            "request": "launch",
+            "mainClass": "Arrayproblem.Repeat",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "Rotate",
+            "request": "launch",
+            "mainClass": "Arrayproblem.Rotate",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "Search2D",
+            "request": "launch",
+            "mainClass": "Arrayproblem.Search2D",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "SecondLast",
+            "request": "launch",
+            "mainClass": "Arrayproblem.SecondLast",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "SpiralMatrix",
+            "request": "launch",
+            "mainClass": "Arrayproblem.SpiralMatrix",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "TargetSum",
+            "request": "launch",
+            "mainClass": "Arrayproblem.TargetSum",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "TransposeArray",
+            "request": "launch",
+            "mainClass": "Arrayproblem.TransposeArray",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "Arrey",
+            "request": "launch",
+            "mainClass": "Arrey",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "Arrey2D",
+            "request": "launch",
+            "mainClass": "Arrey2D",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "Fibbonachi",
+            "request": "launch",
+            "mainClass": "Fibbonachi",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "Insertion",
+            "request": "launch",
+            "mainClass": "Insertion",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "KMultiplier",
+            "request": "launch",
+            "mainClass": "KMultiplier",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "LLCollection",
+            "request": "launch",
+            "mainClass": "LLCollection",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "LLp1",
+            "request": "launch",
+            "mainClass": "LLp1",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList1",
+            "request": "launch",
+            "mainClass": "LinkedList1",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "NToOne",
+            "request": "launch",
+            "mainClass": "NToOne",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "OOPS",
+            "request": "launch",
+            "mainClass": "OOPS",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "OneToN",
+            "request": "launch",
+            "mainClass": "OneToN",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "Polymorphism",
+            "request": "launch",
+            "mainClass": "Polymorphism",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Power",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "PrintArray",
+            "request": "launch",
+            "mainClass": "PrintArray",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "RiverseLL",
+            "request": "launch",
+            "mainClass": "RiverseLL",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "SOD",
+            "request": "launch",
+            "mainClass": "SOD",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "SumOfSeries",
+            "request": "launch",
+            "mainClass": "SumOfSeries",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "SunArray",
+            "request": "launch",
+            "mainClass": "SunArray",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "bubble",
+            "request": "launch",
+            "mainClass": "bubble",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "DSA_d17843b0"
+        },
+        {
+            "type": "java",
+            "name": "selection",
+            "request": "launch",
+            "mainClass": "selection",
+            "projectName": "DSA_d17843b0"
+        }
+    ]
+}
