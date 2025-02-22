@@ -1,3 +1,5 @@
+package LinkedList;
+
 import java.util.*;
 public class LoopLL {
     public static Node head;

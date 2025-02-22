@@ -1,10 +1,12 @@
+package Recursion;
+
 import java.util.*;
 class KetPadComb {
 
     static String[] codes = {".;", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tu", "vwx", "yz"};
 
     public static ArrayList<String> getKeypadcomb(String str){
-        if(str.length() == 0){
+        if(str.isEmpty()){
             ArrayList<String> list = new ArrayList<String>();
             list.add("");
             return list;
